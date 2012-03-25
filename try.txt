@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 aaa
+=======
+this is 3 times
+
+is this my happy ending
+>>>>>>> c278905442f71de7fb70a1c1b71bea900803dcae
